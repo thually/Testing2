@@ -7,6 +7,8 @@ public class HelloWord {
         //This comment was written in Github
         //This comment was written in Intellij
 
+        //this was made from intellij, but committed first in a secondary branch
+
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
         int[] array1 = new int[N];
