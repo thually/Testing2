@@ -5,6 +5,7 @@ public class HelloWord {
     public static void main(String[] args) {
         System.out.println("Hello, World !!!");
         //This comment was written in Github
+        //This comment was written in Intellij
 
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
